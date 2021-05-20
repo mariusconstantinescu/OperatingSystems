@@ -1,2 +1,2 @@
 # OperatingSystems
-Simple scripts that I use when installing operating systems
+Simple scripts that I use when installing Windows.
